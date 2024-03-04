@@ -1,0 +1,28 @@
+{
+    "rooms": [
+        {
+            "room_name": "django",
+            "members": ["vlad", "nikita"],
+            "admin": "vlad",
+            "id": 24311
+        },
+        {
+            "room_name": "fastapi",
+            "members": ["masha", "sasha", "tolya"],
+            "admin": "vlad",
+            "id": 24310
+        },
+        {
+            "room_name": "vite",
+            "members": ["alex", "tom", "seka"],
+            "admin": "seka",
+            "id": 24309
+        },
+        {
+            "room_name": "numpy",
+            "members": ["vladi4ek", "nikita"],
+            "admin": "vladi4ek",
+            "id": 24308
+        }
+    ]
+}
